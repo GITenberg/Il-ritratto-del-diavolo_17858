@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4056
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17858#Il-ritratto-del-diavolo
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2006-02-25'
 gutenberg_type: Text
